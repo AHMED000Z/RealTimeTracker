@@ -3,7 +3,7 @@ from ultralytics import YOLO
 from deep_sort_realtime.deepsort_tracker import DeepSort
 import torch
 
-model = YOLO("model\\yolov8s.pt")
+model = YOLO("model\\yolo11m.pt")
 
 tracker = DeepSort(
     max_age=30,
