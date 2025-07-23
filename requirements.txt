@@ -1,3 +1,5 @@
-opencv-python>=4.8.0
-ultralytics>=8.0.0
-torch>=2.0.0
+# Core dependencies for RealTimeTracker
+opencv-python>=4.8.0          # Computer vision and video processing
+ultralytics>=8.0.0            # YOLOv8 detection and tracking
+torch>=2.0.0                  # PyTorch for model inference
+torchvision>=0.15.0           # Vision utilities for PyTorch
