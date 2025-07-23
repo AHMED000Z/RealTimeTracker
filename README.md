@@ -1,10 +1,10 @@
 # RealTimeTracker
 
-A real-time object detection and tracking application using YOLO11 and DeepSORT.
+A real-time object detection and tracking application using YOLO8 and DeepSORT.
 
 ## Features
 
-- Real-time object detection using YOLO11
+- Real-time object detection using YOLO8
 - Object tracking with DeepSORT algorithm
 - Click to select and track specific objects
 - Webcam video input support
